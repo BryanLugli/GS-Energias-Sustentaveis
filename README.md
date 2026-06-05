@@ -1,6 +1,6 @@
 # GS-Energias-Sustentaveis
 
-## 👨‍💻 Integrantes
+##  Integrantes
 
 - Bryan Lugli — RM571350
 - Beckman Lugli — RM573442
@@ -112,13 +112,13 @@ Visualização e Controle
 ##  Estrutura do Projeto
 
 ```text
-📦 monitoramento-espacial
- ┣ 📜 main.py
- ┣ 📜 sensores.py
- ┣ 📜 alertas.py
- ┣ 📜 dashboard.py
- ┣ 📜 requisitos.txt
- ┗ 📜 README.md
+ monitoramento-espacial
+ ┣  main.py
+ ┣  sensores.py
+ ┣  alertas.py
+ ┣  dashboard.py
+ ┣  requisitos.txt
+ ┗  README.md
 ```
 
 ##  Sustentabilidade
@@ -138,12 +138,12 @@ para simular desafios enfrentados por missões espaciais modernas.
 
 ##  Status do Projeto
 
-✔ Monitoramento implementado
+ Monitoramento implementado
 
-✔ Geração de alertas
+ Geração de alertas
 
-✔ Tomada de decisão automatizada
+ Tomada de decisão automatizada
 
-✔ Dashboard operacional
+ Dashboard operacional
 
-✔ Projeto aderente aos requisitos da Global Solution 2026
+ Projeto aderente aos requisitos da Global Solution 2026
