@@ -1,5 +1,12 @@
 # GS-Energias-Sustentaveis
 
+## 👨‍💻 Integrantes
+
+- Bryan Lugli — RM571350
+- Beckman Lugli — RM573442
+- Guilherme Xavier — RM571350
+
+
 #  Sistema Inteligente de Monitoramento Energético Espacial
 
 Projeto desenvolvido para a Global Solution 2026 da disciplina de Ciência da Computação da FIAP.
