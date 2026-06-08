@@ -68,33 +68,16 @@ Exibição organizada dos dados monitorados em tempo real para facilitar a anál
 
 ---
 
-##  Arquitetura da Solução
+## 🏗️ Arquitetura da Solução
 
-```text
-SENSORES SIMULADOS
-       │
-       ▼
-Entrada de Dados
-(Temperatura, Energia,
- Comunicação e Status)
+### Entrada de Dados
 
-       │
-       ▼
+Sensores simulados fornecem informações sobre:
 
-Processamento Inteligente
-- Análise de Dados
-- Regras de Decisão
-- Geração de Alertas
-
-       │
-       ▼
-
-Visualização e Controle
-- Dashboard
-- Alertas
-- Relatórios
-```
-
+- Temperatura
+- Energia
+- Comunicação
+- Status dos módulos
 ---
 
 ##  Tecnologias Utilizadas
