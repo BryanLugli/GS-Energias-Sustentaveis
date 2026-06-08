@@ -68,7 +68,7 @@ Exibição organizada dos dados monitorados em tempo real para facilitar a anál
 
 ---
 
-## 🏗️ Arquitetura da Solução
+##  Arquitetura da Solução
 
 ### Entrada de Dados
 
@@ -91,18 +91,6 @@ Sensores simulados fornecem informações sobre:
 - Visualização de Dados
 
 ---
-
-##  Estrutura do Projeto
-
-```text
- monitoramento-espacial
- ┣  main.py
- ┣  sensores.py
- ┣  alertas.py
- ┣  dashboard.py
- ┣  requisitos.txt
- ┗  README.md
-```
 
 ##  Sustentabilidade
 
