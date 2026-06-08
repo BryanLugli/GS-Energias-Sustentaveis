@@ -4,7 +4,7 @@
 
 - Bryan Lugli — RM571350
 - Beckman Lugli — RM573442
-- Guilherme Xavier — RM571350
+- Guilherme Xavier — RM573053
 
 
 #  Sistema Inteligente de Monitoramento Energético Espacial
